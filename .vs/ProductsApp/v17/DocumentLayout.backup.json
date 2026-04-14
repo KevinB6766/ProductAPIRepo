@@ -1,12 +1,38 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\befor\\Desktop\\SPRING_2026\\CIS3374\\ProductsApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProductsApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B49F2D-0824-49A1-A16E-C5C8683D7CEB}|ProductsApp\\ProductsApp.csproj|c:\\users\\befor\\desktop\\spring_2026\\cis3374\\productsapp\\productsapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsApp",
+              "DocumentMoniker": "C:\\Users\\befor\\Desktop\\SPRING_2026\\CIS3374\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+              "RelativeDocumentMoniker": "ProductsApp\\ProductsApp.csproj",
+              "ToolTip": "C:\\Users\\befor\\Desktop\\SPRING_2026\\CIS3374\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+              "RelativeToolTip": "ProductsApp\\ProductsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T20:24:25.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
